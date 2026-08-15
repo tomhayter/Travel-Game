@@ -1,0 +1,57 @@
+{
+    "locations": [
+        {
+            "x": 50,
+            "y": 50,
+            "name": "Aberdeen",
+            "stationTypes": [1, 2, 3, 4]
+        },
+        {
+            "x": 250,
+            "y": 50,
+            "name": "Bognor",
+            "stationTypes": [2, 3, 4]
+        },
+        {
+            "x": 50,
+            "y": 150,
+            "name": "Chester",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 250,
+            "y": 150,
+            "name": "Doncaster",
+            "stationTypes": [1, 2, 3, 4]
+        }
+    ],
+    "connections": [
+        {
+            "first": "Aberdeen",
+            "second": "Bognor",
+            "distance": 10
+        },
+        {
+            "first": "Aberdeen",
+            "second": "Chester",
+            "distance": 5
+        },
+        {
+            "first": "Bognor",
+            "second": "Doncaster",
+            "distance": 12
+        },
+        {
+            "first": "Chester",
+            "second": "Doncaster",
+            "distance": 20
+        },
+        {
+            "first": "Aberdeen",
+            "second": "Doncaster",
+            "distance": 20
+        }
+    ],
+    "start_point": "Aberdeen",
+    "end_point": "Doncaster"
+}

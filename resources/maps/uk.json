@@ -1,0 +1,863 @@
+{
+    "locations": [
+        {
+            "x": 23,
+            "y": 574,
+            "name": "Lands End",
+            "stationTypes": [4]
+        },
+        {
+            "x": 52,
+            "y": 551,
+            "name": "Newquay",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 48,
+            "y": 568,
+            "name": "Falmouth",
+            "stationTypes": [2, 3, 4]
+        },
+        {
+            "x": 91,
+            "y": 559,
+            "name": "Plymouth",
+            "stationTypes": [2, 3, 4]
+        },
+
+                {
+            "x": 124,
+            "y": 542,
+            "name": "Exeter",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 184,
+            "y": 543,
+            "name": "Weymouth",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 218,
+            "y": 534,
+            "name": "Bournemouth",
+            "stationTypes": [3, 4]
+        },
+
+        {
+            "x": 229,
+            "y": 521,
+            "name": "Southampton",
+            "stationTypes": [1, 2, 3, 4]
+        },
+                {
+            "x": 237,
+            "y": 538,
+            "name": "Cowes",
+            "stationTypes": [2]
+        },
+        {
+            "x": 293,
+            "y": 531,
+            "name": "Brighton",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 360,
+            "y": 505,
+            "name": "Dover",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 285,
+            "y": 509,
+            "name": "Crawley",
+            "stationTypes": [1, 3, 4]
+        },
+                {
+            "x": 289,
+            "y": 485,
+            "name": "London",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 234,
+            "y": 507,
+            "name": "Winchester",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 182,
+            "y": 473,
+            "name": "Bristol",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 188,
+            "y": 483,
+            "name": "Bath",
+            "stationTypes": [3, 4]
+        },
+                {
+            "x": 233,
+            "y": 456,
+            "name": "Oxford",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 152,
+            "y": 473,
+            "name": "Cardiff",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 114,
+            "y": 475,
+            "name": "Swansea",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 67,
+            "y": 470,
+            "name": "Pembroke",
+            "stationTypes": [3, 4]
+        },
+                {
+            "x": 270,
+            "y": 274,
+            "name": "Scarborough",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 92,
+            "y": 362,
+            "name": "Caernarfon",
+            "stationTypes": [4]
+        },
+        {
+            "x": 295,
+            "y": 444,
+            "name": "Cambridge",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 213,
+            "y": 423,
+            "name": "Birmingham",
+            "stationTypes": [1, 3, 4]
+        },
+                {
+            "x": 169,
+            "y": 377,
+            "name": "Chester",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 157,
+            "y": 391,
+            "name": "Wrexham",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 166,
+            "y": 350,
+            "name": "Liverpool",
+            "stationTypes": [2, 3, 4]
+        },
+        {
+            "x": 197,
+            "y": 353,
+            "name": "Manchester",
+            "stationTypes": [1, 3, 4]
+        },
+                {
+            "x": 208,
+            "y": 385,
+            "name": "Buxton",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 247,
+            "y": 395,
+            "name": "Nottingham",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 226,
+            "y": 360,
+            "name": "Sheffield",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 245,
+            "y": 298,
+            "name": "York",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 224,
+            "y": 234,
+            "name": "Newcastle",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 160,
+            "y": 266,
+            "name": "Windermere",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 150,
+            "y": 256,
+            "name": "Keswick",
+            "stationTypes": [4]
+        },
+        {
+            "x": 215,
+            "y": 204,
+            "name": "Berwick",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 179,
+            "y": 192,
+            "name": "Edinburgh",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 106,
+            "y": 198,
+            "name": "Glasgow",
+            "stationTypes": [1, 3, 4]
+        },
+                {
+            "x": 163,
+            "y": 43,
+            "name": "John o Groats",
+            "stationTypes": [4]
+        },
+        {
+            "x": 126,
+            "y": 115,
+            "name": "Inverness",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 225,
+            "y": 139,
+            "name": "Aberdeen",
+            "stationTypes": [1, 3, 4]
+        },
+        {
+            "x": 93,
+            "y": 505,
+            "name": "Woolacombe",
+            "stationTypes": [4]
+        },
+                {
+            "x": 350,
+            "y": 410,
+            "name": "Norwich",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 82,
+            "y": 152,
+            "name": "Fort William",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 42,
+            "y": 124,
+            "name": "Skye",
+            "stationTypes": [4]
+        },
+        {
+            "x": 160,
+            "y": 61,
+            "name": "Wick",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 268,
+            "y": 314,
+            "name": "Hull",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 268,
+            "y": 367,
+            "name": "Lincoln",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 151,
+            "y": 312,
+            "name": "Blackpool",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 173,
+            "y": 316,
+            "name": "Preston",
+            "stationTypes": [3, 4]
+        },
+        {
+            "x": 165,
+            "y": 500,
+            "name": "Cheddar",
+            "stationTypes": [4]
+        },
+        {
+            "x": 264,
+            "y": 265,
+            "name": "Whitby",
+            "stationTypes": [4]
+        }
+    ],
+    "connections": [
+        {
+            "first": "Lands End",
+            "second": "Falmouth",
+            "distance": 60,
+            "transport_types": [4]
+        },
+        {
+            "first": "Lands End",
+            "second": "Newquay",
+            "distance": 70,
+            "transport_types": [4]
+        },
+        {
+            "first": "Newquay",
+            "second": "Falmouth",
+            "distance": 40,
+            "transport_types": [3, 4]
+        },
+                {
+            "first": "Newquay",
+            "second": "Plymouth",
+            "distance": 80,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Falmouth",
+            "second": "Plymouth",
+            "distance": 105,
+            "transport_types": [2, 3, 4]
+        },
+        {
+            "first": "Plymouth",
+            "second": "Exeter",
+            "distance": 75,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Newquay",
+            "second": "Woolacombe",
+            "distance": 145,
+            "transport_types": [4]
+        },
+        {
+            "first": "Newquay",
+            "second": "Crawley",
+            "distance": 350,
+            "transport_types": [1]
+        },
+        {
+            "first": "Exeter",
+            "second": "Woolacombe",
+            "distance": 90,
+            "transport_types": [4]
+        },
+        {
+            "first": "Exeter",
+            "second": "Weymouth",
+            "distance": 100,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Exeter",
+            "second": "Bristol",
+            "distance": 120,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Exeter",
+            "second": "London",
+            "distance": 222,
+            "transport_types": [3]
+        },
+        {
+            "first": "Exeter",
+            "second": "Manchester",
+            "distance": 300,
+            "transport_types": [1]
+        },
+        {
+            "first": "Exeter",
+            "second": "Newcastle",
+            "distance": 490,
+            "transport_types": [1]
+        },
+        {
+            "first": "Exeter",
+            "second": "Edinburgh",
+            "distance": 580,
+            "transport_types": [1]
+        },
+        {
+            "first": "Exeter",
+            "second": "Cheddar",
+            "distance": 95,
+            "transport_types": [4]
+        },
+        {
+            "first": "Bath",
+            "second": "Cheddar",
+            "distance": 50,
+            "transport_types": [4]
+        },
+        {
+            "first": "Bristol",
+            "second": "Cheddar",
+            "distance": 55,
+            "transport_types": [4]
+        },
+        {
+            "first": "Weymouth",
+            "second": "Bournemouth",
+            "distance": 60,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Bournemouth",
+            "second": "Southampton",
+            "distance": 50,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Southampton",
+            "second": "Winchester",
+            "distance": 20,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Southampton",
+            "second": "Cowes",
+            "distance": 25,
+            "transport_types": [2]
+        },
+        {
+            "first": "Southampton",
+            "second": "Bath",
+            "distance": 100,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Southampton",
+            "second": "Brighton",
+            "distance": 110,
+            "transport_types": [3]
+        },
+        {
+            "first": "Southampton",
+            "second": "Manchester",
+            "distance": 275,
+            "transport_types": [1]
+        },
+        {
+            "first": "Southampton",
+            "second": "Newcastle",
+            "distance": 455,
+            "transport_types": [1]
+        },
+        {
+            "first": "Southampton",
+            "second": "Edinburgh",
+            "distance": 570,
+            "transport_types": [1]
+        },
+        {
+            "first": "Southampton",
+            "second": "Glasgow",
+            "distance": 585,
+            "transport_types": [1]
+        },
+        {
+            "first": "Winchester",
+            "second": "Oxford",
+            "distance": 110,
+            "transport_types": [3]
+        },
+        {
+            "first": "Winchester",
+            "second": "London",
+            "distance": 120,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "London",
+            "second": "Dover",
+            "distance": 125,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "London",
+            "second": "Crawley",
+            "distance": 50,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Crawley",
+            "second": "Brighton",
+            "distance": 35,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "London",
+            "second": "Oxford",
+            "distance": 90,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "London",
+            "second": "Bristol",
+            "distance": 190,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "London",
+            "second": "Birmingham",
+            "distance": 190,
+            "transport_types": [3]
+        },
+        {
+            "first": "London",
+            "second": "Inverness",
+            "distance": 715,
+            "transport_types": [1]
+        },
+        {
+            "first": "London",
+            "second": "Aberdeen",
+            "distance": 650,
+            "transport_types": [1]
+        },
+        {
+            "first": "London",
+            "second": "Glasgow",
+            "distance": 555,
+            "transport_types": [1]
+        },
+        {
+            "first": "London",
+            "second": "Edinburgh",
+            "distance": 535,
+            "transport_types": [1]
+        },
+        {
+            "first": "London",
+            "second": "Manchester",
+            "distance": 245,
+            "transport_types": [1, 3]
+        },
+        {
+            "first": "London",
+            "second": "Newcastle",
+            "distance": 405,
+            "transport_types": [1]
+        },
+        {
+            "first": "London",
+            "second": "Cambridge",
+            "distance": 95,
+            "transport_types": [3]
+        },
+        {
+            "first": "Cambridge",
+            "second": "Norwich",
+            "distance": 105,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Cambridge",
+            "second": "Nottingham",
+            "distance": 175,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Crawley",
+            "second": "Glasgow",
+            "distance": 595,
+            "transport_types": [1]
+        },
+        {
+            "first": "Crawley",
+            "second": "Edinburgh",
+            "distance": 575,
+            "transport_types": [1]
+        },
+        {
+            "first": "Crawley",
+            "second": "Inverness",
+            "distance": 755,
+            "transport_types": [1]
+        },
+        {
+            "first": "Crawley",
+            "second": "Aberdeen",
+            "distance": 685,
+            "transport_types": [1]
+        },
+        {
+            "first": "Bath",
+            "second": "Bristol",
+            "distance": 20,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Bristol",
+            "second": "Cardiff",
+            "distance": 70,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Bristol",
+            "second": "Birmingham",
+            "distance": 142,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Cardiff",
+            "second": "Swansea",
+            "distance": 70,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Swansea",
+            "second": "Pembroke",
+            "distance": 100,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Oxford",
+            "second": "Birmingham",
+            "distance": 130,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Birmingham",
+            "second": "Manchester",
+            "distance": 145,
+            "transport_types": [3]
+        },
+        {
+            "first": "Birmingham",
+            "second": "Nottingham",
+            "distance": 175,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Nottingham",
+            "second": "Lincoln",
+            "distance": 60,
+            "transport_types": [3]
+        },
+        {
+            "first": "Nottingham",
+            "second": "Sheffield",
+            "distance": 60,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Sheffield",
+            "second": "Lincoln",
+            "distance": 85,
+            "transport_types": [3]
+        },
+        {
+            "first": "Sheffield",
+            "second": "York",
+            "distance": 95,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Sheffield",
+            "second": "Hull",
+            "distance": 110,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Manchester",
+            "second": "Chester",
+            "distance": 65,
+            "transport_types": [3]
+        },
+        {
+            "first": "Manchester",
+            "second": "Buxton",
+            "distance": 40,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Manchester",
+            "second": "Sheffield",
+            "distance": 65,
+            "transport_types": [3]
+        },
+        {
+            "first": "Manchester",
+            "second": "Liverpool",
+            "distance": 55,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Chester",
+            "second": "Wrexham",
+            "distance": 22,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Chester",
+            "second": "Caernarfon",
+            "distance": 115,
+            "transport_types": [3]
+        },
+        {
+            "first": "Manchester",
+            "second": "Preston",
+            "distance": 60,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Liverpool",
+            "second": "Preston",
+            "distance": 60,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Preston",
+            "second": "Blackpool",
+            "distance": 25,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Preston",
+            "second": "Windermere",
+            "distance":80 ,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Preston",
+            "second": "Glasgow",
+            "distance": 295,
+            "transport_types": [3]
+        },
+        {
+            "first": "Windermere",
+            "second": "Keswick",
+            "distance": 35,
+            "transport_types": [4]
+        },
+        {
+            "first": "Hull",
+            "second": "York",
+            "distance": 60,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "York",
+            "second": "Scarborough",
+            "distance": 65,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Whitby",
+            "second": "Scarborough",
+            "distance": 30,
+            "transport_types": [4]
+        },
+        {
+            "first": "York",
+            "second": "Newcastle",
+            "distance": 145,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Newcastle",
+            "second": "Berwick",
+            "distance": 100,
+            "transport_types": [3]
+        },
+        {
+            "first": "Edinburgh",
+            "second": "Berwick",
+            "distance": 90,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Edinburgh",
+            "second": "Glasgow",
+            "distance": 80,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Edinburgh",
+            "second": "Inverness",
+            "distance": 180,
+            "transport_types": [1, 4]
+        },
+        {
+            "first": "Edinburgh",
+            "second": "Aberdeen",
+            "distance": 200,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Inverness",
+            "second": "Aberdeen",
+            "distance": 170,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Glasgow",
+            "second": "Inverness",
+            "distance": 270,
+            "transport_types": [4]
+        },
+        {
+            "first": "Glasgow",
+            "second": "Fort William",
+            "distance": 165,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Fort William",
+            "second": "Skye",
+            "distance": 160,
+            "transport_types": [3, 4]
+        },
+                {
+            "first": "Fort William",
+            "second": "Inverness",
+            "distance": 105,
+            "transport_types": [4]
+        },
+        {
+            "first": "Inverness",
+            "second": "Wick",
+            "distance": 165,
+            "transport_types": [3, 4]
+        },
+        {
+            "first": "Wick",
+            "second": "John o Groats",
+            "distance": 25,
+            "transport_types": [4]
+        }
+
+    ],
+    "start_point": "Lands End",
+    "end_point": "John o Groats"
+}
